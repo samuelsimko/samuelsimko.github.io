@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: MSc Computer Science Student at ETH Zurich
+subtitle: ELLIS PhD Student in AI Safety
 
 profile:
   align: right
@@ -24,12 +24,15 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a MSc Computer Science student at ETH Zurich, where I recently completed my Master's thesis on adversarial defenses,
-under the supervision of Prof. [Zhijing Jin](https://zhijing-jin.com/home/),
-Prof. [Mrinmaya Sachan](https://lre.inf.ethz.ch/) and Prof. [Bernhard Schölkopf](https://is.mpg.de/~bs).
+I am an ELLIS PhD student working on AI safety, advised by Prof. [Bernhard Schölkopf](https://is.mpg.de/~bs)
+and co-advised by Prof. [Zhijing Jin](https://zhijing-jin.com/home/).
+Before that, I completed my MSc in Computer Science at ETH Zurich, where my Master's thesis on adversarial defenses
+was supervised by Zhijing Jin, Prof. [Mrinmaya Sachan](https://lre.inf.ethz.ch/) and Bernhard Schölkopf.
 
-Supported by OpenPhilanthropy, my current research focuses on developing tamper-resistant safeguards for large language models.
-More broadly, I am interested in adversarial defenses, jailbreaking attacks, misalignment detection, and causal inference.
+My research is about making language models hold up under adversarial pressure: tamper-resistant safeguards,
+defenses that survive fine-tuning, and robustness to jailbreaking and prompt injection attacks.
+More broadly, I am interested in adversarial defenses, causality, representation learning, and misalignment detection.
+My work has been featured at [ICML](https://icml.cc/), [COLM](https://colmweb.org/), [EMNLP](https://aclanthology.org/venues/emnlp/) and [IASEAI](https://www.iaseai.org/).
 In the past, I have also worked on projects in computational cosmology and AI for healthcare.
 
 Outside of research, I am an avid [speedcuber](https://www.worldcubeassociation.org/persons/2016SIMK01).
