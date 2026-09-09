@@ -22,8 +22,23 @@ ninja.data = [{
           section: "News",},{id: "news-happy-to-have-attended-acl-2025-in-vienna-austria",
           title: 'Happy to have attended ACL 2025 in Vienna, Austria.',
           description: "",
-          section: "News",},{id: "news-excited-to-be-going-to-emnlp-2026-in-suzhou-china",
-          title: 'Excited to be going to EMNLP 2026 in Suzhou, China!',
+          section: "News",},{id: "news-excited-to-be-going-to-emnlp-2025-in-suzhou-china",
+          title: 'Excited to be going to EMNLP 2025 in Suzhou, China!',
+          description: "",
+          section: "News",},{id: "news-happy-to-have-attended-iaseai-26-at-unesco-house-in-paris-france",
+          title: 'Happy to have attended IASEAI’26 at UNESCO House in Paris, France.',
+          description: "",
+          section: "News",},{id: "news-happy-to-have-attended-the-chai-2026-workshop-in-asilomar-california",
+          title: 'Happy to have attended the CHAI 2026 workshop in Asilomar, California.',
+          description: "",
+          section: "News",},{id: "news-excited-to-be-at-icml-2026-in-seoul-south-korea-presenting-training-with-honeypots",
+          title: 'Excited to be at ICML 2026 in Seoul, South Korea, presenting Training with...',
+          description: "",
+          section: "News",},{id: "news-happy-to-have-taken-part-in-the-mars-5-0-research-sprint-in-oxford-uk",
+          title: 'Happy to have taken part in the MARS 5.0 research sprint in Oxford,...',
+          description: "",
+          section: "News",},{id: "news-excited-to-be-starting-my-ellis-phd-advised-by-prof-bernhard-schölkopf-and-prof-zhijing-jin",
+          title: 'Excited to be starting my ELLIS PhD, advised by Prof. Bernhard Schölkopf and...',
           description: "",
           section: "News",},{
         id: 'social-email',
@@ -40,6 +55,13 @@ ninja.data = [{
           window.open("https://github.com/samuelsimko", "_blank");
         },
       },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/samuelsimko", "_blank");
+        },
+      },{
         id: 'social-rss',
         title: 'RSS Feed',
         section: 'Socials',
@@ -52,6 +74,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=8a9YOF4AAAAJ", "_blank");
+        },
+      },{
+        id: 'social-x',
+        title: 'X',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://twitter.com/SimkoSamuel", "_blank");
         },
       },{
       id: 'light-theme',
