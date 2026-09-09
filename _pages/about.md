@@ -26,8 +26,7 @@ latest_posts:
 
 I am an ELLIS PhD student working on AI safety, advised by Prof. [Bernhard Schölkopf](https://is.mpg.de/~bs)
 and co-advised by Prof. [Zhijing Jin](https://zhijing-jin.com/home/).
-Before that, I completed my MSc in Computer Science at ETH Zurich, where my Master's thesis on adversarial defenses
-was supervised by Zhijing Jin, Prof. [Mrinmaya Sachan](https://lre.inf.ethz.ch/) and Bernhard Schölkopf.
+Before that, I completed my MSc in Computer Science at ETH Zurich.
 
 My research is about making language models hold up under adversarial pressure: tamper-resistant safeguards,
 defenses that survive fine-tuning, and robustness to jailbreaking and prompt injection attacks.

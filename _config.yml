@@ -5,7 +5,7 @@
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Samuel
 middle_name:
-last_name: Simko
+last_name: Šimko
 contact_note: samuel@simko.info
 description:
 footer_text:
@@ -192,7 +192,7 @@ terser:
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Simko]
+  last_name: [Šimko, Simko]
   first_name: [Samuel]
 
   style: apa

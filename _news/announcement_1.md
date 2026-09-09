@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Excited to be going to EMNLP 2025 in Suzhou, China!
+Excited to be going to EMNLP 2025 in Suzhou, China 🇨🇳!
